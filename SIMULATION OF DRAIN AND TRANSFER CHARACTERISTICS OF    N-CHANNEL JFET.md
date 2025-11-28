@@ -24,11 +24,11 @@ LT-Spice
 8.Click on the run option  simulation window opens  place the probe  output graph is obtained.
 
 ## CIRCUIT DIAGRAM:
-
+<img width="1280" height="516" alt="image" src="https://github.com/user-attachments/assets/d3de9a36-7d6e-4dfa-ab66-391970de549c" />
 
 
 ## OUTPUT GRAPH:
-
+<img width="1131" height="1241" alt="image" src="https://github.com/user-attachments/assets/4eb6a475-0313-42cf-95f8-067a82a158cc" />
 
 ## RESULT:
 Thus the drain and transfer characteristics of N-channel JFET circuit using LT-spice is simulated and verified. 
