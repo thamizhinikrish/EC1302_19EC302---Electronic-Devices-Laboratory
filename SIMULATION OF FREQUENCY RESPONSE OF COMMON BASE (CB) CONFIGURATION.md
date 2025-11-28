@@ -24,11 +24,11 @@ LT-Spice
 8.Click on the run option  simulation window opens  place the probe  output graph is obtained.
 
 ## CIRCUIT DIAGRAM:
-
-
+<img width="841" height="1280" alt="image" src="https://github.com/user-attachments/assets/02781814-6153-41db-9dec-2b8d10da322b" />
 
 ## OUTPUT GRAPH:
 
+<img width="1054" height="813" alt="image" src="https://github.com/user-attachments/assets/388ec38e-b43b-4018-8c4a-a35b0826a945" />
 
 ## RESULT:
 Thus the frequency response of common base configuration circuit using LT-spice is simulated and verified. 
