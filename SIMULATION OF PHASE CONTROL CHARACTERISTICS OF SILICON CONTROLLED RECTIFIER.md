@@ -27,9 +27,11 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 
+<img width="1193" height="930" alt="image" src="https://github.com/user-attachments/assets/b4995d60-7507-421f-ac69-f44181d26a40" />
 
 
 ## OUTPUT GRAPH:
+<img width="1193" height="930" alt="image" src="https://github.com/user-attachments/assets/a65ccccf-15fb-4b93-b9ce-34330e1306c4" />
 
 
 ## RESULT:
