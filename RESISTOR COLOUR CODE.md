@@ -28,39 +28,17 @@ Determine the value and tolerance of the 10 resistors as shown in the following 
 ## 1. Calculate the value of each resistor below based on its color code.
 <img width="944" height="1180" alt="image" src="https://github.com/user-attachments/assets/d800f30d-8cc1-4332-bc40-71601dc6556b" />
 
-
-## Table 2-2
-
-## Table 2-3
-
-## Table 2-4
-
-## Table 2-5
-
-## Table 2-6
-
-## Table 2-7
-
-## Table 2-8
-
-## Table 2-9
-
-## Table 2-10
-
-## Table 2-11
-
+<img width="1280" height="453" alt="image" src="https://github.com/user-attachments/assets/ce75d2ad-fa49-4f92-8f94-bdf247af9ee3" />
+<img width="1055" height="1280" alt="image" src="https://github.com/user-attachments/assets/8a6cbdf6-0460-41b4-9d62-b301dd14c8c0" />
+<img width="853" height="1280" alt="image" src="https://github.com/user-attachments/assets/aa007e24-a360-4ed5-8a6b-255950f1bb95" />
 ## 2.	Record resistor colors gave to its value in below :
-## i) 4.7 KΩ ± 5%  
+<img width="1280" height="849" alt="image" src="https://github.com/user-attachments/assets/4bcc9718-ea22-4123-aee1-1e6120e9845d" />
+<img width="1280" height="1160" alt="image" src="https://github.com/user-attachments/assets/f9dd568e-87f8-4df2-a472-1d107589242d" />
+<img width="1280" height="453" alt="image" src="https://github.com/user-attachments/assets/b464bdaf-a910-4d04-9e57-a0486a274b90" />
 
-## ii) 910 Ω ± 10%  
-
-## iii) 12 KΩ ± 5%  
-
-## iv) 6.8 KΩ ± 20%  
-
-## v) 47 KΩ ± 20%  
 
 ## 3.	Find out the resistor value and tolerance of the 5 resistors provided using colour coding.
+<img width="1280" height="453" alt="image" src="https://github.com/user-attachments/assets/bc12992e-7c50-4f7c-a8f9-049541b18b79" />
 
 
 ## RESULT:
